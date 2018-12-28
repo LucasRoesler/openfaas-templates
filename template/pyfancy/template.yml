@@ -1,0 +1,2 @@
+language: pyfancy
+fprocess: python3 index.py
